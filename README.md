@@ -1,7 +1,7 @@
 # 👋🏼
 
+- 🐍 I'm learning Python and Pure Data
 - 💌 I’m currently working on my Portfolio
-- 🐍 I'm currently learning Python and Pure Data
 - 🧃 I want to dive into Juce and audio programming
 - 🪗 Ask me about music and synthesizers
 - 📯 {surname} .maj7 (a) gmail .com
