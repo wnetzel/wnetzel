@@ -4,7 +4,7 @@
 - 🐍 I'm currently learning Python and Pure Data
 - 🧃 I want to dive into Juce and audio programming
 - 🪗 Ask me about music and synthesizers
-- 📯 {username} .maj7 (a) gmail .com
+- 📯 {surname} .maj7 (a) gmail .com
 - 🙋🏻‍♂️ he/him
 
 👀 Watch me:
