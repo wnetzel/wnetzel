@@ -1,7 +1,8 @@
 # 👋🏼
 
-- 🤖 I'm learning about Music and Machine Learning
-- 🧃 I want to dive into Juce and audio programming
+- 👨🏻‍💻 Master student @ UiO. "Music, Communication and Technology"
+- 🤖 This semester is all about "Music and Machine Learning" & "Motion Capture"
+- 🧃 I'm interested in learning Juce and audio programming
 - 🪗 Ask me about music and synthesizers
 - 📯 {surname} .maj7 (a) gmail .com
 - 🙋🏻‍♂️ he/him
