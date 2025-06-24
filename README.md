@@ -1,7 +1,6 @@
 # 👋🏼
 
-- 👨🏻‍💻 Master student @ UiO. "Music, Communication and Technology"
-- 🤖 This semester is all about finishing my thesis
+- 👨🏻‍💻 Former master student @ UiO. "Music, Communication and Technology"
 - 🧃 I'm interested in MIDI 2.0, multi-touch controllers & synthesis
 - 🪗 Ask me about music and synthesizers
 - 📯 {surname} .maj7 (a) gmail .com
